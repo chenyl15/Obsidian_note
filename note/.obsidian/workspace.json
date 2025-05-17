@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/密码.md",
+                "file": "git/git克隆Obsidian仓库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "密码"
+              "title": "git克隆Obsidian仓库"
             }
           }
         ],
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ffb507957c3c93e",
+  "active": "3a15e0f01bec1067",
   "lastOpenFiles": [
-    "git克隆Obsidian仓库.md",
-    "Pasted image 20250517200714.png",
+    "git/Pasted image 20250517200714.png",
+    "git/git克隆Obsidian仓库.md",
+    "git",
     "生活/密码.md",
     "欢迎.md",
     "[].md",
