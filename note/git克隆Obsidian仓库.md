@@ -58,7 +58,16 @@ git push origin master
 ```bash
 git branch
 ```
-
+看看是不是branch不一样
+如果是的话,重命名branch
+把master变成main,我github里面是main,git里面是master
+如果你希望将本地分支命名为 `main`，可以使用以下命令来重命名当前分支（假设你的当前分支是 `master`）：
+```bash
+git branch -m master main
+```
+再运行
+```bash
+git push origin main
 ```
 ## 步骤 5: 克隆笔记仓库并同步
 如果你想使用 Git 来同步你自己的笔记，可以创建一个新的 Git 仓库来保存你的 Obsidian 笔记，或者克隆你已有的仓库并进行同步操作。
