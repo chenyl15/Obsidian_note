@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "git克隆Obsidian仓库"
             }
+          },
+          {
+            "id": "d8fd95d2d0456d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/Obsidian常用语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian常用语法"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,10 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a15e0f01bec1067",
+  "active": "d8fd95d2d0456d5b",
   "lastOpenFiles": [
-    "git/Pasted image 20250517200714.png",
+    "其他笔记.md",
+    "生活/Obsidian常用语法.md",
     "git/git克隆Obsidian仓库.md",
+    "git/Pasted image 20250517200714.png",
     "git",
     "生活/密码.md",
     "欢迎.md",
