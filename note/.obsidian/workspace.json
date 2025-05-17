@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git克隆Obsidian仓库.md",
+                "file": "hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git克隆Obsidian仓库"
+              "title": "hello"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "5ffb507957c3c93e",
   "lastOpenFiles": [
-    "hello.md",
     "git克隆Obsidian仓库.md",
+    "hello.md",
     "欢迎.md"
   ]
 }
