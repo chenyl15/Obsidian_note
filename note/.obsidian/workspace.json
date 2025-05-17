@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#多词标签",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8fd95d2d0456d5b",
+  "active": "3a15e0f01bec1067",
   "lastOpenFiles": [
-    "其他笔记.md",
+    "笔记名称.md",
     "生活/Obsidian常用语法.md",
+    "其他笔记.md",
     "git/git克隆Obsidian仓库.md",
     "git/Pasted image 20250517200714.png",
     "git",
