@@ -2,9 +2,9 @@
   "obsidian-weread-plugin:sync-weread-notes-command": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "Tab"
+      "key": "W"
     }
   ]
 }
