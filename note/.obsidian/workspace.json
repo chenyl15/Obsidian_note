@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/Obsidian常用语法.md",
+                "file": "git/git克隆Obsidian仓库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian常用语法"
+              "title": "git克隆Obsidian仓库"
             }
           }
         ],
@@ -210,11 +210,11 @@
   },
   "active": "3a15e0f01bec1067",
   "lastOpenFiles": [
-    "笔记名称.md",
-    "生活/Obsidian常用语法.md",
-    "其他笔记.md",
-    "git/git克隆Obsidian仓库.md",
     "git/Pasted image 20250517200714.png",
+    "git/git克隆Obsidian仓库.md",
+    "生活/Obsidian常用语法.md",
+    "笔记名称.md",
+    "其他笔记.md",
     "git",
     "生活/密码.md",
     "欢迎.md",

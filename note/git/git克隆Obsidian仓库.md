@@ -26,11 +26,16 @@ cd obsidian-repo
 git clone https://github.com/obsidianmd/obsidian-releases.git
 ```
 ![[Pasted image 20250517200714.png]]
+
 ### 3.**等待克隆完成**：Git 会将仓库的所有文件和历史记录下载到你的本地文件夹。
+
 ## 步骤 3: 打开 Obsidian 并配置同步
+
 - 打开 Obsidian 应用程序，选择**“打开文件夹”**（Open Folder）。
 - 选择刚刚克隆的仓库所在的文件夹。Obsidian 会将这个文件夹作为一个新的工作区加载。
+
 ## 步骤 4: 配置 Git 同步
+
 如果你打算使用 Git 来同步你的笔记或者修改：
 - 进入你的 Obsidian 仓库所在文件夹，在终端运行以下命令来初始化 Git 仓库（如果尚未初始化）：
 ```bash
