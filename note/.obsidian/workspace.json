@@ -205,11 +205,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
   "active": "3a15e0f01bec1067",
   "lastOpenFiles": [
+    "微信读书",
     "日记",
     "生活/36b604f06aa9b2c95befdde01fe400dbf0531559.webp",
     "git/git克隆Obsidian仓库.md",

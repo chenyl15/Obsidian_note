@@ -2,5 +2,8 @@
   "obsidian-admonition",
   "obsidian-git",
   "obsidian-auto-link-title",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-tasks-plugin",
+  "obsidian-weread-plugin",
+  "various-complements"
 ]
