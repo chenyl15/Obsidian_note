@@ -1,4 +1,6 @@
 [
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-link-title",
+  "obsidian-linter"
 ]
